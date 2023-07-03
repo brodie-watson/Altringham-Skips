@@ -29,6 +29,16 @@ footer {
   background-color: #fff;
 }
 
+.text-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.contact-container { 
+  margin-top: 25px;
+}
+
 
 .logo-container {
   padding-top: 30px;
@@ -207,11 +217,7 @@ when you move the mouse over it (hover) */
     width: 500px;
 }
 
-.text-container {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    text-align: center;
-}
+
 
 .contact-button {
   border: none;
@@ -235,6 +241,11 @@ when you move the mouse over it (hover) */
 .contact-button:hover {
   background-color: #555555;
   color: white;
+}
+
+.contact-number {
+  text-decoration: none;
+  padding-left: 15px;
 }
 
 table {
